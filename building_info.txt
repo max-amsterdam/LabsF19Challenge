@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "group_id": 125, 
+      "group_name": "Architectural and Fine Arts Library 1", 
+      "parent_id": 124, 
+      "parent_name": "Avery"
+    }, 
+    {
+      "group_id": 126, 
+      "group_name": "Architectural and Fine Arts Library 2", 
+      "parent_id": 124, 
+      "parent_name": "Avery"
+    }, 
+    {
+      "group_id": 127, 
+      "group_name": "Architectural and Fine Arts Library 3", 
+      "parent_id": 124, 
+      "parent_name": "Avery"
+    }, 
+    {
+      "group_id": 116, 
+      "group_name": "Butler Library 2", 
+      "parent_id": 115, 
+      "parent_name": "Butler"
+    }, 
+    {
+      "group_id": 117, 
+      "group_name": "Butler Library 3", 
+      "parent_id": 115, 
+      "parent_name": "Butler"
+    }, 
+    {
+      "group_id": 118, 
+      "group_name": "Butler Library 301", 
+      "parent_id": 115, 
+      "parent_name": "Butler"
+    }, 
+    {
+      "group_id": 119, 
+      "group_name": "Butler Library 4", 
+      "parent_id": 115, 
+      "parent_name": "Butler"
+    }, 
+    {
+      "group_id": 120, 
+      "group_name": "Butler Library 5", 
+      "parent_id": 115, 
+      "parent_name": "Butler"
+    }, 
+    {
+      "group_id": 121, 
+      "group_name": "Butler Library 6", 
+      "parent_id": 115, 
+      "parent_name": "Butler"
+    }, 
+    {
+      "group_id": 122, 
+      "group_name": "Butler Library stk", 
+      "parent_id": 115, 
+      "parent_name": "Butler"
+    }, 
+    {
+      "group_id": 98, 
+      "group_name": "Starr East Asian Library", 
+      "parent_id": 97, 
+      "parent_name": "East Asian Library"
+    }, 
+    {
+      "group_id": 192, 
+      "group_name": "JJ's Place", 
+      "parent_id": 153, 
+      "parent_name": "John Jay"
+    }, 
+    {
+      "group_id": 155, 
+      "group_name": "John Jay Dining Hall", 
+      "parent_id": 153, 
+      "parent_name": "John Jay"
+    }, 
+    {
+      "group_id": 110, 
+      "group_name": "Lehman Library 2", 
+      "parent_id": 109, 
+      "parent_name": "Lehman Library"
+    }, 
+    {
+      "group_id": 111, 
+      "group_name": "Lehman Library 3", 
+      "parent_id": 109, 
+      "parent_name": "Lehman Library"
+    }, 
+    {
+      "group_id": 102, 
+      "group_name": "Lerner 1", 
+      "parent_id": 101, 
+      "parent_name": "Lerner"
+    }, 
+    {
+      "group_id": 103, 
+      "group_name": "Lerner 2", 
+      "parent_id": 101, 
+      "parent_name": "Lerner"
+    }, 
+    {
+      "group_id": 104, 
+      "group_name": "Lerner 3", 
+      "parent_id": 101, 
+      "parent_name": "Lerner"
+    }, 
+    {
+      "group_id": 105, 
+      "group_name": "Lerner 4", 
+      "parent_id": 101, 
+      "parent_name": "Lerner"
+    }, 
+    {
+      "group_id": 106, 
+      "group_name": "Lerner 5", 
+      "parent_id": 101, 
+      "parent_name": "Lerner"
+    }, 
+    {
+      "group_id": 107, 
+      "group_name": "Roone Arledge Auditorium", 
+      "parent_id": 101, 
+      "parent_name": "Lerner"
+    }, 
+    {
+      "group_id": 100, 
+      "group_name": "Science and Engineering Library", 
+      "parent_id": 99, 
+      "parent_name": "Northwest Corner Building"
+    }, 
+    {
+      "group_id": 96, 
+      "group_name": "Uris/Watson Library", 
+      "parent_id": 2, 
+      "parent_name": "Uris"
+    }
+  ]
+}
